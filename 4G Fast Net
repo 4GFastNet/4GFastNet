@@ -1,7 +1,7 @@
 {
   "Version": "1.0.1",
   "ReleaseNotes": "",
-  "UrlUpdate": "https://github.com/4GFastNet/4GFastNet",
+  "UrlUpdate": "https://raw.githubusercontent.com/4GFastNet/4GFastNet/main/4G%20Fast%20Net",
   "Sms": "",
   "EmailFeedback": "es7100407@gmail.com",
   "UrlContato": "",
@@ -57,7 +57,7 @@
       "TlsIP": "",
       "ProxyIP": "104.16.56.6",
       "ProxyPort": "80",
-      "Info": "4G"
+      "Info": "Proxy"
     },
     {
       "Name": "VIVO 02",
@@ -67,7 +67,7 @@
       "TlsIP": "104.18.7.80",
       "ProxyIP": "",
       "ProxyPort": "",
-      "Info": "4G"
+      "Info": "Tlsws"
     },
     {
       "Name": "TIM 01",
@@ -77,7 +77,7 @@
       "TlsIP": "",
       "ProxyIP": "104.16.56.6",
       "ProxyPort": "80",
-      "Info": "4G"
+      "Info": "Proxy"
     },
     {
       "Name": "TIM 02",
@@ -87,7 +87,7 @@
       "TlsIP": "cdnjs.cloudflare.com",
       "ProxyIP": "",
       "ProxyPort": "",
-      "Info": "4G"
+      "Info": "Tlsws"
     },
     {
       "Name": "CLARO 01",
@@ -97,7 +97,7 @@
       "TlsIP": "parceirosclaro.com.br",
       "ProxyIP": "",
       "ProxyPort": "",
-      "Info": "4G"
+      "Info": "Tlsws"
     },
     {
       "Name": "CLARO 02",
@@ -107,7 +107,7 @@
       "TlsIP": "",
       "ProxyIP": "",
       "ProxyPort": "",
-      "Info": "4G"
+      "Info": "Tlsws"
     },
     {
       "Name": "OI",
