@@ -1,11 +1,11 @@
 {
   "Version": "1.0.1",
   "ReleaseNotes": "",
-  "UrlUpdate": "https://raw.githubusercontent.com/4GFastNet/4GFastNet/main/4G%20Fast%20Net",
+  "UrlUpdate": "https://raw.githubusercontent.com/4GFastNet/4GFastNet/main",
   "Sms": "",
   "EmailFeedback": "es7100407@gmail.com",
-  "UrlContato": "",
-  "UrlTermos": "",
+  "UrlContato": "https://wa.me/message/5SPL2I7O43HDK1",
+  "UrlTermos": "https://kiritosshxd.github.io/Conecta4g_site/termos.html",
   "CheckUser": "true",
   "Udp": [
     {
@@ -30,7 +30,7 @@
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "ed.4gfastnet.xyz",
-      "CheckUser": "http://ed.4gfastnet.xyz:8989/checkUser",
+      "CheckUser": "http://209.14.2.21:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
@@ -41,7 +41,7 @@
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "br02.4gfastnet.xyz",
-      "CheckUser": "http://193.123.102.77:8888/server/online",
+      "CheckUser": "http://193.123.103.77:2095/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
@@ -92,9 +92,9 @@
     {
       "Name": "CLARO 01",
       "FLAG": "claro",
-      "Payload": "GET ws://parceirosclaro.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: WebSocket\n\n",
-      "SNI": "parceirosclaro.com.br",
-      "TlsIP": "parceirosclaro.com.br",
+      "Payload": "GET ws://gersonclaro.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "gersonclaro.com.br",
+      "TlsIP": "gersonclaro.com.br",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
@@ -104,7 +104,7 @@
       "FLAG": "claro",
       "Payload": "GET ws://gersonclaro.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: WebSocket\n\n",
       "SNI": "gersonclaro.com.br",
-      "TlsIP": "",
+      "TlsIP": "gersonclaro.com.br",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
@@ -117,7 +117,7 @@
       "TlsIP": "mobilidade.cloud.caixa.gov.br",
       "ProxyIP": "",
       "ProxyPort": "",
-      "Info": "4G"
+      "Info": "Tlsws"
     }
   ]
 }
